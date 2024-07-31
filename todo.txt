@@ -1,0 +1,1 @@
+- add command detail table (for each command there will be multiple details/specifications)
